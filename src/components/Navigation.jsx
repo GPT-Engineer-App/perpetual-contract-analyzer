@@ -14,6 +14,11 @@ const Navigation = () => {
               Home
             </Button>
           </Link>
+          <Link to="/new-page">
+            <Button colorScheme="teal" variant="ghost">
+              New Page
+            </Button>
+          </Link>
         </Flex>
       </Flex>
     </Box>
